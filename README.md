@@ -2,9 +2,12 @@
 
 Often when I look back at a piece of code I wrote long ago, I think that I could have written it 100 times better.
 
-
 [![Twitter Account](https://img.shields.io/twitter/follow/joaodfmota?color=00acee&label=twitter&style=flat-square)](https://twitter.com/joaodfmota)
 [![Linkedin](https://img.shields.io/badge/connect%20on-linkedin-blue?style=flat-square)](https://www.linkedin.com/in/joaodfmota/)
+
+>Remember how the Lord, your God, guided your path through the wilderness for these forty years, abasing you and testing you so that he might know what was in your heart, whether or not you would observe his commandments.
+>
+> Deuteronomy 8:2
 
 <!--
 **joaodfmota/joaodfmota** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
